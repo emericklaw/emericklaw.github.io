@@ -1,0 +1,11 @@
+title: My Jekyll Site
+description: A minimal site powered by Jekyll and GitHub Pages
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: minima
+markdown: kramdown
+
+# Optional
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
