@@ -1,7 +1,7 @@
-title: My Jekyll Site
-description: A minimal site powered by Jekyll and GitHub Pages
+title: Matt Emerick-Law
+description: Matt Emerick-Law
 baseurl: ""
-url: "https://yourusername.github.io"
+url: "https://emericklaw.co.uk"
 theme: minima
 markdown: kramdown
 
